@@ -1,0 +1,47 @@
+.img1 {
+    width:50px;
+    height:60px;
+    }
+
+.img2 {
+  width: 70px;
+  height: 20px;
+  max-width: 50%;
+  vertical-align: text-top;
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+}
+
+
+.img3 {
+    vertical-align: text-top;
+    width="30"; 
+    height="50";
+}
+
+#div{
+	background-color:#FF4500;
+}
+
+/*Classe para div*/
+ .city {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   max-width: 300px;
+   height: 300px;
+   border: 1px solid black;
+}
+
+h2{
+    text-align: right;
+}
+
+h3{
+
+}
+
+#back1{
+	background-color:#006400;
+}
+

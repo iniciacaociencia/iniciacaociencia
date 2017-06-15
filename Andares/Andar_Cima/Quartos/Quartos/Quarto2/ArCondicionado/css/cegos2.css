@@ -1,0 +1,9 @@
+body {
+    background-image: url("cegos2.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    position: relative;
+    width: 50%;
+    
+}

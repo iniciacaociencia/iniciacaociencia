@@ -1,0 +1,25 @@
+.i1{
+	width="90";
+	height="90";
+	}
+
+
+.i2{
+	width="30";
+	height="40";
+	text-align: center
+}
+
+.center {
+    text-align: right;
+    color: black;
+}
+
+.i3 {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    
+}
+	

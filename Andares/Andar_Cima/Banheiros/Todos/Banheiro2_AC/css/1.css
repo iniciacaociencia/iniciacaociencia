@@ -1,0 +1,21 @@
+.foder{
+  padding: 70px 0;
+  margin-top: 100px;
+  border-top: 1px solid #e5e5e5;
+  background-color: #B0C4DE;
+}
+
+img{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+#navlist li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 0;
+}
